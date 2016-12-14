@@ -26,8 +26,6 @@ You can support development and maintenance of JusticeHub by [donating to Tech F
 
 * [JusticeHub Documentation, Tutorials, and Reference Guides](https://github.com/TechForJustice/JusticeHub/wiki/Documentation)
 
-* We based our wiki model off of [Buoy](https://github.com/betterangels/buoy). 
-
 ## Code
 To-Do
 
