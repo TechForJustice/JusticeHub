@@ -13,7 +13,7 @@ Add your voice and experience to the effort to better understand the barriers to
 * [Learn more about JusticeHub](https://github.com/TechForJustice/JusticeHub/wiki).
 
 # [Contributing](#)
-To Do
+To-Do
 
 JusticeHub is [free software](https://www.gnu.org/philosophy/free-sw.en.html "What is free software?"). It was developed and is maintained by [Tech For Justice](https://github.com/TechForJustice) team members [Christy](https://github.com/christyleos), [Astrid](https://github.com/astridw), and [Vince](https://github.com/vincentshadow). 
 
@@ -30,29 +30,18 @@ To-Do
 ## Code
 To-Do
 
-
-CONTENTS OF THIS FILE
----------------------
-
- * About Drupal
- * Configuration and features
- * Installation profiles
- * Appearance
- * Developing for Drupal
-
 ABOUT DRUPAL
 ------------
 
 Drupal is an open source content management platform supporting a variety of
 websites ranging from personal weblogs to large community-driven websites. For
-more information, see the Drupal website at http://drupal.org/, and join the
-Drupal community at http://drupal.org/community.
+more information, see the [Drupal website](http://drupal.org/), and join the
+[Drupal community](http://drupal.org/community).
 
 Legal information about Drupal:
  * Know your rights when using Drupal:
    See LICENSE.txt in the same directory as this document.
- * Learn about the Drupal trademark and logo policy:
-   http://drupal.com/trademark
+ * Learn about the [Drupal trademark and logo policy](http://drupal.com/trademark)   
 
 CONFIGURATION AND FEATURES
 --------------------------
