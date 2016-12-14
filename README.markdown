@@ -13,7 +13,6 @@ Add your voice and experience to the effort to better understand the barriers to
 * [Learn more about JusticeHub](https://github.com/TechForJustice/JusticeHub/wiki).
 
 # [Contributing](https://github.com/TechForJustice/JusticeHub/wiki/Contributor-Guidelines)
-To-Do
 
 JusticeHub is [free software](https://www.gnu.org/philosophy/free-sw.en.html "What is free software?"). It was developed and is maintained by [Tech For Justice](https://github.com/TechForJustice) team members [Christy](https://github.com/christyleos), [Astrid](https://github.com/astridw), and [Vince](https://github.com/vincentshadow). 
 
