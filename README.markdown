@@ -28,6 +28,7 @@ You can support development and maintenance of JusticeHub by [donating to Tech F
 
 ## Code
 - The code is currently not up to date - but will be soon! 
+
 The easiest way to get started contributing code is to use the [WAMP for Windows](https://www.youtube.com/watch?v=kVc_9vAO7oI) or [MAMP for Mac](https://www.youtube.com/watch?v=I6sTPp779mA) to make a local development environment. Then [fork the JusticeHub project on GitHub](https://github.com/TechForJustice/JusticeHub/fork) and `git clone` your fork into WAMP or MAMP's directory. See our wiki for a step-by-step guide to [setting up a development environment](https://github.com/TechForJustice/JusticeHub/wiki/Setting-up-a-development-environment). Patches and pull requests are very welcome! 
 
 JusticeHub is built with [Drupal](https://www.drupal.org/home), a free and open source content-management framework written in PHP and distributed under the GNU General Public License. 
