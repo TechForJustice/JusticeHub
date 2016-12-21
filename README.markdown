@@ -1,4 +1,4 @@
-# JusticeHub: A social network, technology system, & hub aimed to aid in the identification, prevention, mitigation and solving of justice issues that affect our communities.
+# JusticeHub: A social network & hub aimed to aid in the identification, prevention, mitigation and solving of justice issues that affect our communities.
 
 JusticeHub is dedicated to self-defined participation, open source development, attribution, and benefit.
 
