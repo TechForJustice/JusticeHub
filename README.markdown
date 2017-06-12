@@ -2,7 +2,7 @@
 
 JusticeHub is dedicated to self-defined participation, open source development, attribution, and benefit.
 
-Let's be honest - how many times have you heard of or have come up with a great idea to solve a problem and then find out months later that someone has already created (or are currently working on) that exact solution for their community or clients? It can be incredibly fustrating to have our efforts become invalidated or to have wasted time, the result usually being a project is abandoned or loses steam due to siloing that stems from competing for the same grant money or consumer dollars.
+Let's be honest - how many times have you heard of or have come up with a great idea to solve a problem and then find out months later that someone has already created (or are currently working on) that exact solution for their community or clients? It can be incredibly frustrating to have our efforts become invalidated or to have wasted time, the result usually being a project is abandoned or loses steam due to silo-ing that stems from competing for the same grant money or consumer dollars.
 
 OR maybe you see injustice in your community and aren't sure how to help or who else is working on the issues you care about.
 
