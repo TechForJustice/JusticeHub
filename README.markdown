@@ -22,6 +22,10 @@ Even if you don't code, there's a lot you can do to help make JusticeHub better.
 
 You can support development and maintenance of JusticeHub by [donating to Tech For Justice](http://www.techforjustice.org/donate/).
 
+## Provide Feedback
+
+Found a [bug](https://github.com/TechForJustice/JusticeHub/wiki/Submitting-a-bug-report) or interested in submitting a [feature request](https://github.com/TechForJustice/JusticeHub/wiki/Submitting-a-feature-request)? Take a look at our [issue tracker](https://github.com/TechForJustice/JusticeHub/issues)!
+
 ## Document
 
 * [JusticeHub Documentation, Tutorials, and Reference Guides](https://github.com/TechForJustice/JusticeHub/wiki/Documentation)
